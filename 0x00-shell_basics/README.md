@@ -17,3 +17,5 @@ ln -s: create a symbolic link
 cp -u * .html: copy all the HTML files from the current working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the current directory
 mv [[:upper:]]:move all files beginning with an uppercase letter to the directory
 rm * ~: delete all files in the current working directory that end with the character ~
+mkdir -p: create different directories in the current directory
+
