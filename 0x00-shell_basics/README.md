@@ -18,4 +18,4 @@ cp -u * .html: copy all the HTML files from the current working directory, but o
 mv [[:upper:]]:move all files beginning with an uppercase letter to the directory
 rm * ~: delete all files in the current working directory that end with the character ~
 mkdir -p: create different directories in the current directory
-ls -m: list all the files and directories of the current directory, separated by commas
+ls -amp: list all the files and directories of the current directory, separated by commas with the directories ending in /, listing the hidden files, alpha ordered with . and .. at the beginning, with digits first
