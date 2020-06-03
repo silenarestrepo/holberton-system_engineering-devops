@@ -10,4 +10,5 @@ mkdir: create a directory in a directory
 mv: move a file from a directory to another
 rm: delete a file
 rm -r: delete a directory
-cd -: change the working directory to the previous one 
+cd -: change the working directory to the previous one
+ls -la . ..: list all files including hidden in the current, parent and boot directory in long format 
