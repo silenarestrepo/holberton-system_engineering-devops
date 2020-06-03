@@ -9,4 +9,5 @@ dir -aln: display current directory contents in long format including hidden fil
 mkdir: create a directory in a directory
 mv: move a file from a directory to another
 rm: delete a file
-rm -r: delete a directory 
+rm -r: delete a directory
+cd ..: change the working directory to the previous one 
