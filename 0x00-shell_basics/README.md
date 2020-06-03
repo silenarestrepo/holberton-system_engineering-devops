@@ -14,3 +14,4 @@ cd -: change the working directory to the previous one
 ls -la . ..: list all files including hidden in the current, parent and boot directory in long format 
 file: print the type of the file
 ln -s: create a symbolic link
+cp -u * .html: copy all the HTML files from the current working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the current directory
