@@ -12,3 +12,4 @@ rm: delete a file
 rm -r: delete a directory
 cd -: change the working directory to the previous one
 ls -la . ..: list all files including hidden in the current, parent and boot directory in long format 
+file: prints the type of the file
