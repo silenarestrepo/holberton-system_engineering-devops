@@ -10,4 +10,4 @@ mkdir: create a directory in a directory
 mv: move a file from a directory to another
 rm: delete a file
 rm -r: delete a directory
-cd ..: change the working directory to the previous one 
+cd -: change the working directory to the previous one 
