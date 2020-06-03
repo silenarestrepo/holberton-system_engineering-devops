@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -al 1000
+dir -aln
