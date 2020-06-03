@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -al vagrant 1000(vagrant)
+dir -al 1000
