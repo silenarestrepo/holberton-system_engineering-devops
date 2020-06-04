@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ls -d --x
+chmod -d--x
