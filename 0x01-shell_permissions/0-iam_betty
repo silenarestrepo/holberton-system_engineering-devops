@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo usermod -u 1020
-betty
+usermod -u 1020 betty
