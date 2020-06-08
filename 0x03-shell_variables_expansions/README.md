@@ -7,3 +7,4 @@ wc: count
 printenv: list environmental variables
 set: display a list of all variables (including environmental) and functions
 export: create a global variable
+printf: print something
